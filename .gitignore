@@ -1,2 +1,10 @@
-*.meta
-/Library/metadata/
+RollingBall/Temp/
+RollingBall/Library/
+RollingBall/Obj/
+ 
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
