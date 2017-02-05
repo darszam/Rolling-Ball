@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour {
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        speed = 2.5f;
+        speed = 10.0f;
     }
 
     void FixedUpdate()
