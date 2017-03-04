@@ -3,7 +3,7 @@ RollingBall/Library/
 RollingBall/Obj/
 RollingBall/ProjectSettings/ 
 
-*.meta
+
 *.csproj
 *.unityproj
 *.sln
